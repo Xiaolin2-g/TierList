@@ -1,4 +1,4 @@
-package com.xiaolin;
+package com.xiaolin.tierlist;
 
 public class Main {
 
